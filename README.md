@@ -1,3 +1,4 @@
+<div align="center">
 <div class="center">
 <a href="https://www.pokemon-adoption.de">
 <img src="https://www.yatta-tempel.de/animierte/576gino.gif" style="width: 68px; height: 73px;" alt="Mevia" /></a><br />
