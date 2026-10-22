@@ -5,3 +5,11 @@
 <b>Name:</b> Mevia<br />
 Adopt one yourself! @<a href="https://www.pokemon-adoption.de">Pok&eacute;mon Orphanage</a>
 </div>
+
+<div align="center">
+<div class="center">
+<a href="https://www.pokemon-adoption.de">
+<img src="https://www.yatta-tempel.de/animierte/vipitis.gif" style="width: 64px; height: 64px;" alt="Aspen Moor" /></a><br />
+<b>Name:</b> Aspen Moor<br />
+Adopt one yourself! @<a href="https://www.pokemon-adoption.de">Pok&eacute;mon Orphanage</a>
+</div>
